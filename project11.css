@@ -84,6 +84,7 @@ body {
     gap: 10px;
     color: rgb(67, 207, 207);
     cursor: pointer;
+<<<<<<< HEAD
   }
   .navbar .list .list-item:first-child {
     color: #302727;
@@ -95,6 +96,10 @@ body {
     font-weight: 600;
     font-size: 12px;
   }
+=======
+    padding-top: 154px;
+}
+>>>>>>> ee41927842192139379be251922096c8246c2a6e
 
   .btn-outline {
     padding-bottom: 5px;
