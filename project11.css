@@ -84,23 +84,8 @@ body {
     gap: 10px;
     color: rgb(67, 207, 207);
     cursor: pointer;
-<<<<<<< HEAD
   }
-  .navbar .list .list-item:first-child {
-    color: #302727;
-    font-weight: 600;
-    font-size: 12px;
-  }
-  .navbar .list .list-item:first-child:hover {
-    color: rgb(255, 0, 170);
-    font-weight: 600;
-    font-size: 12px;
-  }
-=======
-    padding-top: 154px;
-}
->>>>>>> ee41927842192139379be251922096c8246c2a6e
-
+  
   .btn-outline {
     padding-bottom: 5px;
     padding-top: 5px;
