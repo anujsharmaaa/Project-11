@@ -1,7 +1,7 @@
 
 ## PROJECT HEADING
 
-![](https://img.shields.io/badge/LIVE%20PROJECT%2010-WEBHOSTING%20WEB%20PAGE-blue)
+![](https://img.shields.io/badge/LIVE%20PROJECT%2011-WEBHOSTING%20WEB%20PAGE-blue)
 
 ![](https://img.shields.io/badge/TECH%20STACK-HTML%20%7C%20CSS-important)
 
